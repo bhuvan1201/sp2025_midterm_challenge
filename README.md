@@ -96,3 +96,21 @@ The grading rubric is as follows:
 ## Bonus Points (Optional)
 
 The top 10 students on the Private leaderboard will receive bonus points.
+
+
+Repo structure - 
+
+.
+├── DS542-midterm report.pdf       # Final midterm write-up summarizing methodology and results
+├── README.md                      # Project overview, structure, and instructions
+├── requirements.txt              # Required Python packages
+├── sample_submission.csv         # Template format for expected submission CSV
+├── starter_code.py               # Provided starter template for initial development
+├── submissions.zip               # Archive of multiple CSV result submissions
+├── eval_cifar100.py              # Evaluation script for CIFAR-100 in-distribution test set
+├── eval_ood.py                   # Evaluation script for out-of-distribution datasets
+├── utils.py                      # Helper functions shared across parts
+├── models/                       # Folder for model implementation scripts
+│   ├── model_part1.py           # Model code for Part 1
+│   ├── model_part2.py           # Model code for Part 2
+│   └── model_part3.py           # Model code for Part 3 (best model)
