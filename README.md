@@ -100,6 +100,7 @@ The top 10 students on the Private leaderboard will receive bonus points.
 
 Repo structure - 
 
+```
 .
 ├── DS542-midterm report.pdf       # Final midterm write-up summarizing methodology and results
 ├── README.md                      # Project overview, structure, and instructions
@@ -114,3 +115,4 @@ Repo structure -
 │   ├── model_part1.py            # Model code for Part 1
 │   ├── model_part2.py            # Model code for Part 2
 │   └── model_part3.py            # Model code for Part 3 (best model)
+```
