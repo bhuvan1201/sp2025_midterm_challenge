@@ -111,6 +111,6 @@ Repo structure -
 ├── eval_ood.py                   # Evaluation script for out-of-distribution datasets
 ├── utils.py                      # Helper functions shared across parts
 ├── models/                       # Folder for model implementation scripts
-│   ├── model_part1.py           # Model code for Part 1
-│   ├── model_part2.py           # Model code for Part 2
-│   └── model_part3.py           # Model code for Part 3 (best model)
+│   ├── model_part1.py            # Model code for Part 1
+│   ├── model_part2.py            # Model code for Part 2
+│   └── model_part3.py            # Model code for Part 3 (best model)
